@@ -9,8 +9,9 @@ namespace composite {
         // Use this for initialization
         void Start()
         {
-            UnitTest();	
-           // UnitTest2();
+            UnitTest();
+            // UnitTest2();
+            Debug.Log("工程師say hi");
         }
 
         // 
