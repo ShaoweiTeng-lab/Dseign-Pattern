@@ -9,10 +9,15 @@ namespace composite {
         // Use this for initialization
         void Start()
         {
+<<<<<<< HEAD
             UnitTest();
             // UnitTest2();
             Debug.Log("工程師say hi");
             Debug.Log("工程師say hi2");
+=======
+            UnitTest();	
+           // UnitTest2();
+>>>>>>> parent of 5b000f9... 阿鄧工程師更改
         }
 
         // 
