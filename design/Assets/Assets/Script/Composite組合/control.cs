@@ -23,6 +23,9 @@ namespace composite {
             UnitTest();	
            // UnitTest2();
  
+            UnitTest();	
+           // UnitTest2();
+
         }
 
         // 
