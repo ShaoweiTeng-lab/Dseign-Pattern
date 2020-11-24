@@ -13,16 +13,6 @@ namespace composite {
  
             UnitTest();
             // UnitTest2();
-            Debug.Log("工程師say hi");
-            Debug.Log("工程師阿鄧say hi2");
- 
-            UnitTest();	
-           // UnitTest2();
- 
- 
-            UnitTest();	
-           // UnitTest2();
- 
         }
 
         // 
