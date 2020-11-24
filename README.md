@@ -2,4 +2,4 @@
 Dseign-Patton
 
 
-放置所有Unity 相關的  Design Pattern
+放置所有Design Pattern Script 放在 design/Assets/Assets/Script中
